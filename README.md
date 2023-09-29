@@ -1,3 +1,7 @@
-# meetup-2023-demo
-2023 Vicenza Flutter Meetup Presentation
-Alessandro Bianco
+# Flutter Meetup Vicenza 2023
+
+Cinema MeetUp Vicenza
+
+## Getting Started
+
+First talk Demo

@@ -1,0 +1,4 @@
+#Fri Sep 29 14:57:04 CEST 2023
+base.0=/Users/aaale/Documents/projects/Flutter Ale/Meetup 2023 Demo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
